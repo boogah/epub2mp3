@@ -16,6 +16,18 @@ The Python dependencies are listed in the `requirements.txt` file and can be ins
 pip install -r requirements.txt
 ```
 
+## Setting the Default System Voice
+
+The script uses the default system voice for text-to-speech synthesis. You can change the default system voice by following these steps:
+
+1. Open System Preferences (click the Apple menu in the top left and select 'System Preferences...').
+2. Click 'Accessibility'.
+3. From the list on the left, select 'Speech'.
+4. You can choose the system voice from the 'System Voice:' dropdown menu. I prefer 'Siri (Voice 2)'. 
+5. You can also adjust the speaking rate.
+
+Remember to close and reopen your preferred Terminal app after making these changes if you're running the script from Terminal.
+
 ## Usage
 
 ```bash
