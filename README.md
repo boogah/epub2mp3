@@ -34,4 +34,4 @@ Remember to close and reopen your preferred Terminal app after making these chan
 python epub2mp3.py <epub_file>
 ```
 
-Replace `<epub_file>` with the name of your ePub file. Each chapter will be output as a separate MP3 file.
+Replace `<epub_file>` with the name of your ePub file. Each chapter will be outputted as a separate MP3 file.
